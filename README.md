@@ -1,4 +1,4 @@
-human_machine_difficulty_kit
+# Human–Machine Difficulty Kit
 
 Open-source code release for our forthcoming paper on Human–Machine Difficulty Alignment in educational QA.
 This repo provides a complete, reproducible pipeline to: (1) prepare RACE & Eedi data, (2) score MCQs with LLMs, (3) compute Data Maps and calibration (ECE / temperature scaling), and (4) quantify alignment between human-perceived and model-perceived difficulty.
