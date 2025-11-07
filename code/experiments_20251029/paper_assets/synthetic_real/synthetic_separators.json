@@ -1,0 +1,218 @@
+[
+  {
+    "qid": "syn_002",
+    "declared_difficulty": "medium",
+    "topic": "math:ratio",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_005",
+    "declared_difficulty": "easy",
+    "topic": "science:reasoning",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_006",
+    "declared_difficulty": "medium",
+    "topic": "reading-comprehension:inference",
+    "winner": "qwen",
+    "loser": "deep",
+    "accs": {
+      "deep": 0,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_007",
+    "declared_difficulty": "hard",
+    "topic": "math:ratio",
+    "winner": "mini",
+    "loser": "deep",
+    "accs": {
+      "deep": 0,
+      "mini": 1,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_009",
+    "declared_difficulty": "medium",
+    "topic": "reading-comprehension:detail",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_011",
+    "declared_difficulty": "easy",
+    "topic": "vocab-in-context",
+    "winner": "deep",
+    "loser": "qwen",
+    "accs": {
+      "deep": 1,
+      "mini": 1,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_012",
+    "declared_difficulty": "hard",
+    "topic": "science:reasoning",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_013",
+    "declared_difficulty": "medium",
+    "topic": "math:geometry",
+    "winner": "qwen",
+    "loser": "deep",
+    "accs": {
+      "deep": 0,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_014",
+    "declared_difficulty": "easy",
+    "topic": "math:ratio",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_017",
+    "declared_difficulty": "hard",
+    "topic": "science:reasoning",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_018",
+    "declared_difficulty": "hard",
+    "topic": "math:geometry",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_019",
+    "declared_difficulty": "easy",
+    "topic": "science:reasoning",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_020",
+    "declared_difficulty": "hard",
+    "topic": "reading-comprehension:inference",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_021",
+    "declared_difficulty": "hard",
+    "topic": "science:reasoning",
+    "winner": "qwen",
+    "loser": "deep",
+    "accs": {
+      "deep": 0,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_023",
+    "declared_difficulty": "medium",
+    "topic": "vocab-in-context",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_025",
+    "declared_difficulty": "easy",
+    "topic": "math:ratio",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 1
+    }
+  },
+  {
+    "qid": "syn_028",
+    "declared_difficulty": "easy",
+    "topic": "math:geometry",
+    "winner": "deep",
+    "loser": "qwen",
+    "accs": {
+      "deep": 1,
+      "mini": 1,
+      "qwen": 0
+    }
+  },
+  {
+    "qid": "syn_029",
+    "declared_difficulty": "easy",
+    "topic": "vocab-in-context",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "deep": 1,
+      "mini": 0,
+      "qwen": 0
+    }
+  }
+]

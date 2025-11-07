@@ -1,0 +1,422 @@
+[
+  {
+    "qid": "high_1030",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_1187",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_1268",
+    "winner": "mini",
+    "loser": "deep",
+    "accs": {
+      "mini": 0.8,
+      "qwen": 0.6,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "high_1298",
+    "winner": "deep",
+    "loser": "qwen",
+    "accs": {
+      "mini": 0.4,
+      "qwen": 0.0,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_1322",
+    "winner": "deep",
+    "loser": "qwen",
+    "accs": {
+      "mini": 0.4,
+      "qwen": 0.2,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_1363",
+    "winner": "deep",
+    "loser": "qwen",
+    "accs": {
+      "mini": 0.4,
+      "qwen": 0.2,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_1609",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 0.6,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_1646",
+    "winner": "mini",
+    "loser": "deep",
+    "accs": {
+      "mini": 0.8,
+      "qwen": 0.6,
+      "deep": 0.0
+    }
+  },
+  {
+    "qid": "high_1889",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_1898",
+    "winner": "mini",
+    "loser": "qwen",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 0.2,
+      "deep": 0.6
+    }
+  },
+  {
+    "qid": "high_19",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_20",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 0.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2030",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_204",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "high_2396",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2398",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2562",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2714",
+    "winner": "mini",
+    "loser": "qwen",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 0.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_272",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2924",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_2931",
+    "winner": "mini",
+    "loser": "deep",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 0.4,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "high_3461",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.4
+    }
+  },
+  {
+    "qid": "high_357",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.4
+    }
+  },
+  {
+    "qid": "high_399",
+    "winner": "mini",
+    "loser": "qwen",
+    "accs": {
+      "mini": 0.8,
+      "qwen": 0.2,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "high_530",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "high_615",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.0
+    }
+  },
+  {
+    "qid": "high_966",
+    "winner": "mini",
+    "loser": "qwen",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 0.2,
+      "deep": 0.4
+    }
+  },
+  {
+    "qid": "middle_1113",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_1326",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "middle_1343",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "middle_1357",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.8
+    }
+  },
+  {
+    "qid": "middle_1370",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_1422",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.2,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_218",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_342",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_42",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_430",
+    "winner": "mini",
+    "loser": "qwen",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 0.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_683",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_690",
+    "winner": "mini",
+    "loser": "deep",
+    "accs": {
+      "mini": 1.0,
+      "qwen": 1.0,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "middle_8",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 0.2
+    }
+  },
+  {
+    "qid": "middle_849",
+    "winner": "qwen",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 1.0,
+      "deep": 1.0
+    }
+  },
+  {
+    "qid": "middle_878",
+    "winner": "deep",
+    "loser": "mini",
+    "accs": {
+      "mini": 0.0,
+      "qwen": 0.4,
+      "deep": 1.0
+    }
+  }
+]

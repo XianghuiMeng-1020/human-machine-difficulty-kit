@@ -1,0 +1,25 @@
+# Figure List (auto)
+
+- figs/paper/ednet_b2pl_vs_m.png
+- figs/paper/ednet_gap_dev.png
+- figs/paper/ednet_gap_test.png
+- figs/paper/ednet_train_vs_dev_scatter.png
+- figs/paper/ednet_train_vs_test_scatter.png
+- figs/paper/eedi_cross_model_abs_gap_err.png
+- figs/paper/eedi_cross_model_spearman_err.png
+- figs/paper/overlap_gap_1mconf.png
+- figs/paper/overlap_gap_err.png
+- figs/paper/overlap_perq_drobertaB_to_eedi_gpt4omini_tau08_joint_err_gap_hist.png
+- figs/paper/overlap_perq_drobertaB_to_eedi_gpt4omini_tau08_joint_err_scatter.png
+- figs/paper/overlap_perq_robertaL_to_eedi_gpt4o_tau08_joint_err_gap_hist.png
+- figs/paper/overlap_perq_robertaL_to_eedi_gpt4o_tau08_joint_err_scatter.png
+- figs/paper/overlap_perq_stage3_to_stage2_model_tags_eedi_gpt4o_tau08_err_gap_hist.png
+- figs/paper/overlap_perq_stage3_to_stage2_model_tags_eedi_gpt4o_tau08_err_scatter.png
+- figs/paper/overlap_rho_1mconf.png
+- figs/paper/overlap_rho_err.png
+- figs/paper/paper_summary_dashboard.png
+- figs/paper/race_cross_model_abs_gap_err.png
+- figs/paper/race_cross_model_spearman_err.png
+- figs/paper/race_drobertaB_err_vs_1mconf.png
+- figs/paper/race_robertaL_err_vs_1mconf.png
+- figs/paper/race_stage3_err_vs_1mconf.png

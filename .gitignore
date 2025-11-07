@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+dist/
+.venv*/
+venv*/
+.DS_Store
+data/
+tables/
+figs/
+analysis/
+artifacts/
+*.tgz
+.env
+.env.*
+secrets.*

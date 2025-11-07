@@ -1,0 +1,4 @@
+Eedi GPT-4o (300x1, with images)
+fallback H_label via p_correct terciles: q33=0.1004, q66=0.1648
+[τ=0.80] 模型端标签分布：{'简单M': 2, '中等M': 279, '困难M': 19}
+[τ=0.90] 模型端标签分布：{'简单M': 0, '中等M': 300, '困难M': 0}

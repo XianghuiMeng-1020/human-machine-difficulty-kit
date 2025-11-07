@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hmdkit"
+version = "0.1.0"
+description = "Human–Machine Difficulty Alignment (open-source, code-only)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+  "numpy","pandas","scipy","scikit-learn",
+  "statsmodels","matplotlib","textdistance","tqdm","pyyaml"
+]

@@ -1,0 +1,7 @@
+Eedi Qwen3-Next-80B (300x1)
+n=300, Acc=0.1633, Mean p_chosen=0.8327
+[τ=0.80] 模型端标签分布：{'简单M': 11, '中等M': 114, '困难M': 175}
+[τ=0.90] 模型端标签分布：{'简单M': 11, '中等M': 178, '困难M': 111}
+人类难度来源：fallback from p_correct (q33=0.0176, q66=0.0618)
+交叉表：outputs/eedi_qwen3next80b_300x1_final_match/human_x_model_tau080.csv
+交叉表：outputs/eedi_qwen3next80b_300x1_final_match/human_x_model_tau090.csv

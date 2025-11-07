@@ -1,0 +1,26 @@
+import argparse
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--cross", required=True, help="path to human_x_model csv")
+parser.add_argument("--out", required=True, help="output figure path")
+args = parser.parse_args()
+
+# 
+df = pd.read_csv(args.cross, index_col=0)
+
+# 
+for col in ["M", "M", "M"]:
+    if col not in df.columns:
+        df[col] = 0
+df = df[["M", "M", "M"]]
+
+plt.figure(figsize=(6,4))
+sns.heatmap(df, annot=True, fmt="d", cmap="YlOrBr")
+plt.title(" vs  ")
+plt.xlabel(" (M)")
+plt.ylabel(" (H)")
+plt.tight_layout()
+plt.savefig(args.out, dpi=300)

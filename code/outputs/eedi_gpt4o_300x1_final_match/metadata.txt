@@ -1,0 +1,10 @@
+MODEL=openai:gpt-4o
+USE_IMAGE=0
+TOP_LOGK=20
+STRICT_LETTER=1
+LETTER_TOKENS=3
+CONF_MODE=first_letter
+NORM_SCOPE=letters
+GEN_T=0.05
+PERMUTE_SEED="qid-run deterministic (runner.py)"
+POSTHOC_GAMMA=0.964552   # calibrates mean p_chosen -> 0.6200

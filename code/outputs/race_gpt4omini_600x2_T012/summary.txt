@@ -1,0 +1,22 @@
+== Overall ==
+Overall Acc: 0.89
+Mean Conf (chosen): 0.9902775166198177
+Mean Conf (correct): 0.8917439162893296
+ECE(10): 0.10027751661981768
+Brier: 0.09944196917035576
+Stable(identical across rounds): 600
+≤2-answers across rounds: 600
+n_rows: 600.0
+n_questions: 600.0
+rounds: 1.0
+
+== Data Map counts ==
+Easy: 532
+Ambiguous: 4
+Hard: 0
+Impossible: 64
+
+== By human difficulty ==
+difficulty   n  Accuracy  Mean Conf (chosen)  Mean Conf (correct)  Std Conf
+      high 300  0.883333            0.990886             0.884609  0.308923
+    middle 300  0.896667            0.989669             0.898879  0.290420
