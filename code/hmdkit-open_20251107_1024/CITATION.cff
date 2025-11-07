@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-title: Human–Machine Difficulty Alignment Kit (Open Release)
-message: If you use this software, please cite this repository.
-authors:
-  - family-names: YourSurname
-    given-names: YourName
-date-released: 2025-11-07
-version: 0.1.0

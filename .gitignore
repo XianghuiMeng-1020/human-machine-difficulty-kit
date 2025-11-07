@@ -15,3 +15,8 @@ artifacts/
 .env
 .env.*
 secrets.*
+
+# generated artifacts
+code/outputs/
+code/experiments_20251029/outputs/
+code/hmdkit-open_*/

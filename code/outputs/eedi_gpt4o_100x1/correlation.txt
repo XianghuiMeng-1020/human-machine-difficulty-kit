@@ -1,5 +1,0 @@
-n_rows: 78
-spearman_r: 0.045609
-spearman_p: 0.691730
-kendall_tau: 0.031810
-kendall_p: 0.714389

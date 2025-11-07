@@ -1,9 +1,0 @@
-numpy
-pandas
-scipy
-scikit-learn
-statsmodels
-matplotlib
-textdistance
-tqdm
-pyyaml
